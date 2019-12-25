@@ -1,2 +1,21 @@
-# my-demo-windows
-看到别人写的就学着自己捣鼓一下
+# demo1
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+### 新手上路，请多关照！（看到别人写的自己做个简单的demo练手）
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
