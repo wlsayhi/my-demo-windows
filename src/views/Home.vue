@@ -14,8 +14,6 @@
       <!-- 底部 -->
       <footer-bar @searchText="getSearchText" :index="barIndex" :businessName="businessName"></footer-bar>
 
-      <!-- 渲染搜索字体 -->
-      <text-canvas :text='searchText'></text-canvas>
     </div>
 </template>
            
